@@ -1,0 +1,5 @@
+0 ok
+1 like
+2 dislike
+3 none
+4 neutral
